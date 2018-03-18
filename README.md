@@ -1,4 +1,7 @@
 # Energy-Use-with-Smart-Meters-in-UK
+
+This is a final project for data science program.  A huge dataset was provided for analysis.  Research questions were determined.  Data analyzed using Python.  Graphs and a final report were generated. 
+
 To better utilize energy, the UK government needs energy providers to introduce smart meters in each home in England, Wales and Scotland. This means more than 26 million homes providing data for the energy providers; the goal is that each home has a smart meter by 2020.  
 
 In this dataset, you will find real data from the London energy data warehouse, that contains the energy consumption readings for a sample of 5,567 London Households that took part in a pilot project between November 2011 and February 2014.     There are several files in this dataset which are provided as a very large zip file:  
