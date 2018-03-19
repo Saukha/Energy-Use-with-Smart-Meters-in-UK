@@ -1,4 +1,4 @@
-# Energy-Use-with-Smart-Meters-in-UK
+# Energy Use with Smart Meters in UK
 
 This is a project for a data science program.  A huge dataset was provided for analysis.  Research questions were determined.  Methodology and lessons learned were documented.  Data was analyzed and graphs were created using Python programming language.  A final report were generated. 
 
